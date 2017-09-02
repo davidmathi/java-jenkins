@@ -10,7 +10,7 @@ public class Rectangle {
 
 public int getArea(){
 
-  return lenght*width;
+  return length*width;
 
 }
 

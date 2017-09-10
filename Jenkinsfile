@@ -7,7 +7,7 @@ pipeline {
   stages{
     stage('Unit Tests'){
     steps {
-      junit 'reports/reprts.xml'
+      
     }
 
     }
